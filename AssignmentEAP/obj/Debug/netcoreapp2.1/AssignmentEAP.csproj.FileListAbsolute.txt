@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\bin\Debug\netcoreapp2.1\AssignmentEAP.deps.json
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\bin\Debug\netcoreapp2.1\AssignmentEAP.runtimeconfig.json
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\bin\Debug\netcoreapp2.1\AssignmentEAP.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\bin\Debug\netcoreapp2.1\AssignmentEAP.dll
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\bin\Debug\netcoreapp2.1\AssignmentEAP.pdb
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\obj\Debug\netcoreapp2.1\AssignmentEAP.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\obj\Debug\netcoreapp2.1\AssignmentEAP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\obj\Debug\netcoreapp2.1\AssignmentEAP.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\obj\Debug\netcoreapp2.1\AssignmentEAP.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\obj\Debug\netcoreapp2.1\AssignmentEAP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\obj\Debug\netcoreapp2.1\AssignmentEAP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\obj\Debug\netcoreapp2.1\AssignmentEAP.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\obj\Debug\netcoreapp2.1\AssignmentEAP.dll
+C:\Users\Admin\Desktop\AssignmentEAP\AssignmentEAP\obj\Debug\netcoreapp2.1\AssignmentEAP.pdb
